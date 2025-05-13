@@ -18,5 +18,5 @@ Recommendation: Based on the similarity in genres and ratings of the movies, the
 
 🎉The system successfully suggests movies based on user input and movie similarity. Users are able to discover relevant movies with personalized suggestions.
 
-⚙️ Technologies Used
+⚙️ Technologies Used: 
 Python (Pandas | Numpy | Matplotlib | Seaborn)
